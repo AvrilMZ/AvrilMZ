@@ -18,14 +18,6 @@
       <img align="center" style="height: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only " alt="Top Languages"/>
     </a>
   </p>
-  <p align="center" style="width: 100%;">
-    <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
-      <!-- Streak -->
-      <img align="center" style="width: 49%;" src="https://streak-stats.demolab.com?user=AvrilMZ&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true#gh-dark-mode-only " alt="Streak Counter"/>
-      <!-- Top Contributions -->
-      <img align="center" style="width: 49%;" src="https://github-contributor-stats.vercel.app/api?username=AvrilMZ&limit=3&theme=dracula&hide_border=true&show_owner=true&combine_all_yearly_contributions=true#gh-dark-mode-only " alt="Top Contributions"/>
-    </a>
-  </p>
   
   <!-- LIGHT MODE -->
   <p align="center" style="width: 100%;">
@@ -41,15 +33,6 @@
       <!-- Most Used Languages -->
       <img align="center" style="height: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only " alt="Top Languages"/>
     </a>
-  </p>
-  <p align="center" style="width: 100%;">
-    <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-      <!-- Streak -->
-      <img align="center" style="width: 49%;" src="https://streak-stats.demolab.com?user=AvrilMZ&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true#gh-light-mode-only " alt="Streak Counter"/>
-      <!-- Top Contributions -->
-      <img align="center" style="width: 49%;" src="https://github-contributor-stats.vercel.app/api?username=AvrilMZ&limit=3&theme=default&hide_border=true&show_owner=true&combine_all_yearly_contributions=true#gh-light-mode-only " alt="Top Contributions"/>
-    </a>
-  </p>
 
 <!--
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
