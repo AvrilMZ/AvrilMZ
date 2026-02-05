@@ -30,7 +30,7 @@
       <tr>
         <td>TB021</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Fundamentos_de_Programacion">
+          <a href="https://github.com/AvrilMZ/Fundamentos_de_Programacion" target="_blank" rel="noopener noreferrer">
             Fundamentos de Programación
           </a>
         </td>
@@ -39,7 +39,7 @@
       <tr>
         <td>TB022</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Introduccion_al_Desarrollo_de_Software">
+          <a href="https://github.com/AvrilMZ/Introduccion_al_Desarrollo_de_Software" target="_blank" rel="noopener noreferrer">
             Introducción al Desarrollo de Software
           </a>
         </td>
@@ -48,7 +48,7 @@
       <tr>
         <td>CB100</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Algoritmos_y_Estructuras_de_Datos">
+          <a href="https://github.com/AvrilMZ/Algoritmos_y_Estructuras_de_Datos" target="_blank" rel="noopener noreferrer">
             Algoritmos y Estructuras de Datos
           </a>
         </td>
@@ -57,7 +57,7 @@
       <tr>
         <td>TB023</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Organizacion_del_Computador">
+          <a href="https://github.com/AvrilMZ/Organizacion_del_Computador" target="_blank" rel="noopener noreferrer">
             Organización del Computador
           </a>
         </td>
@@ -66,7 +66,7 @@
       <tr>
         <td>TB024</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Teoria_de_Algoritmos">
+          <a href="https://github.com/AvrilMZ/Teoria_de_Algoritmos" target="_blank" rel="noopener noreferrer">
             Teoría de Algoritmos
           </a>
         </td>
@@ -75,7 +75,7 @@
       <tr>
         <td>TB025</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Paradigmas_de_Programacion">
+          <a href="https://github.com/AvrilMZ/Paradigmas_de_Programacion" target="_blank" rel="noopener noreferrer">
             Paradigmas de Programación
           </a>
         </td>
@@ -84,7 +84,7 @@
       <tr>
         <td>TA043</td>
         <td>
-          <a href="https://github.com/AvrilMZ/Sistemas_Operativos">
+          <a href="https://github.com/AvrilMZ/Sistemas_Operativos" target="_blank" rel="noopener noreferrer">
             Sistemas Operativos
           </a>
         </td>
