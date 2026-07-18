@@ -126,35 +126,35 @@
 <!-- PROFILE STATS -->
 <h3 align="center">· Public Statistics ·</h3>
 
-<!-- DARK MODE -->
-<p align="center">
-  <!-- Main Stats -->
-  <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
-    <img align="center" width="50%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
-    <img align="center" width="30%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only"/>
-  </a>
-</p>
-
-<!-- LIGHT MODE -->
-<p align="center">
-  <!-- Main Stats -->
-  <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-    <img align="center" width="50%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-    <img align="center" width="30%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only"/>
-  </a>
-</p>
+  <!-- DARK MODE -->
+  <p align="center">
+    <!-- Main Stats -->
+    <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <!-- Most Used Languages -->
+    <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only"/>
+    </a>
+  </p>
+  
+  <!-- LIGHT MODE -->
+  <p align="center">
+    <!-- Main Stats -->
+    <a href="https://github.com/AvrilMZ#gh-light-mode-only">
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <!-- Most Used Languages -->
+    <a href="https://github.com/AvrilMZ#gh-light-mode-only">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only"/>
+    </a>
+  </p>
 
 <!--
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
