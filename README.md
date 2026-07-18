@@ -127,23 +127,24 @@
 <h3 align="center">· Public Statistics ·</h3>
 
   <!-- DARK MODE -->
-  <p align="center" style="width: 100%;">
-    <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
+  <p style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/AvrilMZ#gh-dark-mode-only" style="display: contents;">
       <!-- Main Stats -->
-      <img align="center" style="width: 49%;" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Main Stats"/>
+      <img align="center"; style="width: 49%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Main Stats"/>
       <!-- Most Used Languages -->
-      <img align="center" style="height: 49%;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Top Languages"/>
+      <img align="center"; style="height: 49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Top Languages"/>
     </a>
   </p>
   
   <!-- LIGHT MODE -->
-  <p align="center" style="width: 100%;">
-    <a href="https://github.com/AvrilMZ#gh-light-mode-only">
+  <p style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/AvrilMZ#gh-light-mode-only" style="display: contents;">
       <!-- Main Stats -->
-      <img align="center" style="width: 49%;" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only" alt="Main Stats"/>
+      <img align="center"; style="width: 49%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only" alt="Main Stats"/>
       <!-- Most Used Languages -->
-      <img align="center" style="height: 49%;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages"/>
+      <img align="center"; style="height: 49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages"/>
     </a>
+  </p>
 
 <!--
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
