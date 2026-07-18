@@ -130,9 +130,9 @@
   <p align="center" style="width: 100%;">
     <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
       <!-- Main Stats -->
-      <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Main Stats"/>
+      <img align="center" style="width: 49%;" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Main Stats"/>
       <!-- Most Used Languages -->
-      <img align="center" style="height: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Top Languages"/>
+      <img align="center" style="height: 49%;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Top Languages"/>
     </a>
   </p>
   
@@ -140,9 +140,9 @@
   <p align="center" style="width: 100%;">
     <a href="https://github.com/AvrilMZ#gh-light-mode-only">
       <!-- Main Stats -->
-      <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only" alt="Main Stats"/>
+      <img align="center" style="width: 49%;" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only" alt="Main Stats"/>
       <!-- Most Used Languages -->
-      <img align="center" style="height: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages"/>
+      <img align="center" style="height: 49%;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages"/>
     </a>
 
 <!--
