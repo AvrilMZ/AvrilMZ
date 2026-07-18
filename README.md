@@ -126,25 +126,35 @@
 <!-- PROFILE STATS -->
 <h3 align="center">· Public Statistics ·</h3>
 
-  <!-- DARK MODE -->
-  <p style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/AvrilMZ#gh-dark-mode-only" style="display: contents;">
-      <!-- Main Stats -->
-      <img align="center"; style="width: 49%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Main Stats"/>
-      <!-- Most Used Languages -->
-      <img align="center"; style="height: 49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only" alt="Top Languages"/>
-    </a>
-  </p>
-  
-  <!-- LIGHT MODE -->
-  <p style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/AvrilMZ#gh-light-mode-only" style="display: contents;">
-      <!-- Main Stats -->
-      <img align="center"; style="width: 49%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only" alt="Main Stats"/>
-      <!-- Most Used Languages -->
-      <img align="center"; style="height: 49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages"/>
-    </a>
-  </p>
+<!-- DARK MODE -->
+<p align="center">
+  <!-- Main Stats -->
+  <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
+    <img align="center" width="50%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=dracula#gh-dark-mode-only"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <a href="https://github.com/AvrilMZ#gh-dark-mode-only">
+    <img align="center" width="30%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=dracula#gh-dark-mode-only"/>
+  </a>
+</p>
+
+<!-- LIGHT MODE -->
+<p align="center">
+  <!-- Main Stats -->
+  <a href="https://github.com/AvrilMZ#gh-light-mode-only">
+    <img align="center" width="50%" src="https://github-stats-extended.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <a href="https://github.com/AvrilMZ#gh-light-mode-only">
+    <img align="center" width="30%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only"/>
+  </a>
+</p>
 
 <!--
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
@@ -153,13 +163,13 @@
   <!-- Dark Mode -->
 <!--
   <a href="https://github.com/AvrilMZ#gh-dark-mode-only" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/        LINK_DEL_REPO       &hide_border=true&theme=dracula#gh-dark-mode-only" alt="Pinned Repo"/>
+    <img src="https://github-stats-extended.vercel.app/        LINK_DEL_REPO       &hide_border=true&theme=dracula#gh-dark-mode-only" alt="Pinned Repo"/>
   </a>
 -->
   <!-- Light Mode -->
 <!--
   <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/        LINK_DEL_REPO       &hide_border=true&theme=default#gh-light-mode-only" alt="Pinned Repo"/>
+    <img src="https://github-stats-extended.vercel.app/        LINK_DEL_REPO       &hide_border=true&theme=default#gh-light-mode-only" alt="Pinned Repo"/>
   </a>
 </div>
 -->
