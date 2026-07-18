@@ -90,6 +90,33 @@
         </td>
         <td>Mendez</td>
       </tr>
+      <tr>
+        <td>TA044</td>
+        <td>
+          <a href="https://github.com/AvrilMZ/Base_de_Datos" target="_blank" rel="noopener noreferrer">
+            Base de Datos
+          </a>
+        </td>
+        <td>Román</td>
+      </tr>
+      <tr>
+        <td>TA045</td>
+        <td>
+          <a href="https://github.com/AvrilMZ/Taller_de_Programacion" target="_blank" rel="noopener noreferrer">
+            Taller de Programación
+          </a>
+        </td>
+        <td>Veiga</td>
+      </tr>
+      <tr>
+        <td>CB051</td>
+        <td>
+          <a href="https://github.com/AvrilMZ/Modelacion_Numerica" target="_blank" rel="noopener noreferrer">
+            Modelación Númerica
+          </a>
+        </td>
+        <td>Balzarotti</td>
+      </tr>
     </tbody>
   </table>
 </div>
